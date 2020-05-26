@@ -1,0 +1,3 @@
+# 自动配置数据权限配置类
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.anzlee.lock.configuration.LockAutoScanConfig
